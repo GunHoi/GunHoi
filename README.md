@@ -2,7 +2,9 @@
 - 👀 I’m interested in JavaScript & Web FrontEnd
 - 🌱 I’m currently learning JavaScript & React JS
 
-<a href="https://0is-2y.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=&logoColor=C0C0C0"/></a>
+[![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&link=https://www.notion.so/fdbdf580ed75451dbff1a8bdab8bb747)](https://www.notion.so/fdbdf580ed75451dbff1a8bdab8bb747)
+[![Tistory Badge](https://img.shields.io/badge/Tistory-FF4500?style=flat-square&logo=Tistory&link=https://0is-2y.tistory.com)](https://0is-2y.tistory.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lgh509@gmail.com)](mailto:lgh509@gmail.com)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GunHoi&show_icons=true&theme=radical)
 
