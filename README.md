@@ -5,6 +5,9 @@
 ![React Badge](https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white)
 ![Vue Badge](https://img.shields.io/badge/Vue.JS-4CAF50?style=flat&logo=Vue.JS&logoColor=white)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-FFEE58?style=flat&logo=JavaScript&logoColor=white)
+![Html5 Badge](https://img.shields.io/badge/Html5-F04A27?style=flat&logo=Html5&logoColor=white)
+![Css3 Badge](https://img.shields.io/badge/Css3-2375C2?style=flat&logo=Css3&logoColor=white)
+![Java Badge](https://img.shields.io/badge/Java-FF7F00?style=flat&logo=Javat&logoColor=white)
 
 ## Link
 [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&link=https://www.notion.so/fdbdf580ed75451dbff1a8bdab8bb747)](https://www.notion.so/fdbdf580ed75451dbff1a8bdab8bb747)
